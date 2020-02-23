@@ -1,0 +1,143 @@
+.btn-film {
+white-space: nowrap;
+}
+.btn-pill-right {
+font-family: Verdana, sans-serif;
+font-size: 14px;
+font-weight: 500;
+background: #94cc62;
+color: white;
+}
+.first-but {
+color: #94cc62;
+border-color: #94cc62;
+border-style: solid;
+background: white;
+}
+.first-but:hover {
+color: white;
+background: #94cc62;
+border-color: #94cc62;
+}
+.second-but {
+color: white;
+border-color: #b9b9b9;
+border-style: solid;
+background: #b9b9b9;
+white-space: nowrap;
+}
+.second-but:hover {
+color: #b9b9b9;
+border-color: #b9b9b9;
+border-style: solid;
+background: white;
+}
+.copy {
+color: #7F7679;
+font-size: 12px;
+}
+.design {
+font-family: cursive;
+font-weight: 500;
+line-height: 0.9em;
+color: #94cc62;
+font-stretch: extra-expanded;
+}
+.design-new {
+font-family: cursive;
+font-weight: normal;
+line-height: 0.9em;
+color: #7F7679;
+font-stretch: extra-expanded;
+font-size: 16px;
+}
+.fa-size {
+color: #94cc62;
+}
+.fa-stack-1x {
+text-align: center;
+color: #a1a1a1;
+}
+.h2-size {
+font-family: Helvetica, sans-serif;
+font-weight: normal;
+line-height: 1em;
+color: #7F7679;
+font-size: 14px;
+font-stretch: ultra-expanded;
+}
+.information-1 {
+font-family: Verdana, sans-serif;
+font-size: 26px;
+font-weight: 500;
+}
+.information-2 {
+font-family: Verdana, sans-serif;
+font-weight: 500;
+line-height: 1.3em;
+margin-bottom: 0.1em;
+}
+.information-3 {
+font-family: Verdana, sans-serif;
+}
+.information-4 {
+font-family: Verdana, sans-serif;
+}
+.word {
+color: grey;
+font-family: Verdana, sans-serif;
+font-weight: 500;
+}
+.text {
+color: grey;
+font-family: Verdana, sans-serif;
+font-weight: 500;
+font-stretch: condensed;
+}
+.container-1 {
+background: #94cc62;
+font-family: Verdana, sans-serif;
+color: white;
+}
+.name {
+color: #7F7679;
+font-family: cursive;
+font-stretch: extra-expanded;
+font-weight: 600;
+line-height: 0.9em;
+}
+.font {
+font-family: Helvetica, sans-serif;
+font-weight: normal;
+line-height: 1em;
+color: #7F7679;
+font-size: 25px;
+font-style: italic;
+font-stretch: ultra-expanded;
+margin-top: 0.1em;
+margin-bottom: 0.1em;
+}
+.p-size {
+font-family: Helvetica, sans-serif;
+font-weight: normal;
+line-height: 1em;
+color: #7F7679;
+font-size: 20px;
+font-stretch: ultra-expanded;
+}
+.type {
+font-family: DejaVu Sans Mono, monospace;
+color: #94cc62;
+font-stretch: ultra-expanded;
+font-size: 16px;
+font-weight: 500;
+line-height: 0.8em;
+}
+.type-new {
+font-family: DejaVu Sans Mono, monospace;
+font-stretch: ultra-expanded;
+color: #7F7679;
+font-size: 14px;
+font-weight: 500;
+line-height: 0.8em;
+}
